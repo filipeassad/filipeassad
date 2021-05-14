@@ -3,11 +3,11 @@
 ![Filipe](https://github.com/filipeassad/portifolio/blob/master/Imagens/img%20topo.png)
 
 
-Meu nome é Filipe Assad Baraúna, tenho 27 anos, sou engenheiro de computação formado na Universidade Católica Dom Bosco (UDCB). Sou de Ladário-MS mas estou morando em Campo Grande-MS. Atualmente estou cursando a pós-graduação de engenharia de software na UCDB. Trabalho como desenvolvedor Java na empresa Missão Salesiana de Mato Grosso. 
+Meu nome é Filipe Assad Baraúna, tenho 30 anos, sou engenheiro de computação formado na Universidade Católica Dom Bosco (UDCB), pós-graduado em Engenharia de Software também na UCDB. Sou nascido em Ladário-MS mas estou morando em Campo Grande-MS. Trabalho atualmente como Fullstack na empresa KosmoStudio. 
 
 ### Objetivos do portfólio 
 
-Venho através dessa página mostrar um pouco das minhas capacidades de desenvolvimento. Eu vou deixar algumas informações e alguns projetos há disposição.
+Venho através desta página mostrar um pouco das minhas capacidades de desenvolvimento. Eu vou deixar algumas informações e alguns projetos há disposição.
 
 ### Linguagens de programação
 
@@ -39,9 +39,8 @@ Venho através dessa página mostrar um pouco das minhas capacidades de desenvol
 
 ### Projetos 
 
-* [Projetos Web](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
-* [Projetos Mobile](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
-* [Projetos Desktop](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
+* [MemesBot](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
+* [TibiaTreino](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
 
 ### Contato
 
