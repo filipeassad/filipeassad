@@ -12,28 +12,40 @@ Venho através dessa página mostrar um pouco das minhas capacidades de desenvol
 ### Linguagens de programação
 
 * Java
-* C++
+  * Spring
+  * Hibernate
 * Python
+  * Django
+  * Django Rest Framework
+  * Flask
+* C++
 * C#
+  * .NET
+  * .NET Core
+  * Ententy FrameWork
+* JavaScript
+  * NodeJs
+  * Express
+  * Nest
+  * Sequelize
+  * TypeOrm
 
 ### Front-End
 
-* Html
-* Css
-* JavaScript
+* Angular
+* AngularJs
+* VueJs
+* ReactJs
 
 ### Projetos 
 
 * [Projetos Web](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
 * [Projetos Mobile](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
 * [Projetos Desktop](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
-* [Projetos Arduino](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
 
 ### Contato
 
 **Email:** filipeassad@gmail.com
-
-**Skype:** filipe.assad
 
 ### Minhas redes sociais
 
