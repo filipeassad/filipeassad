@@ -1,20 +1,19 @@
-# Olá, eu sou o Filipe 👋
+# Hi, I'm Filipe
 
-Engenheiro de software há mais de 10 anos, hoje no **Nubank** trabalhando com **Clojure**.
-Antes, fiz parte do time de pagamentos da **Luizalabs (Magazine Luiza)**, contribuindo
-com o gateway de pagamentos, a integração de novos meios de pagamento e os mecanismos de retentativa.
+Software engineer with 10+ years of experience, currently at **Nubank** working with **Clojure**.
+Previously, I was part of the payments team at **Luizalabs (Magazine Luiza)**, contributing to the
+payment gateway, the integration of new payment methods, and retry mechanisms to recover failed transactions.
 
-🇺🇸 *Software engineer with 10+ years of experience, currently at Nubank working with Clojure.
-Previously on the payments team at Luizalabs (Magazine Luiza).*
+I enjoy backend development, distributed systems, and understanding how things work under the hood.
 
-### 🛠️ Stack
+### Stack
 `Clojure` `Node.js` `Java` `JavaScript/TypeScript` `React` `Kafka` `Redis`
 `Google Cloud` `Kubernetes` `Grafana` `Prometheus` `New Relic`
 
-### 📌 Projetos em destaque
-| Projeto | Descrição | Stack |
+### Featured projects
+| Project | Description | Stack |
 |---|---|---|
-| _em breve_ | | |
+| _coming soon_ | | |
 
-### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) · filipeassad@gmail.com
+### Contact
+[LinkedIn](www.linkedin.com/in/filipe-assad-2840b2a7) · filipeassad@gmail.com
