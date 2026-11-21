@@ -1,52 +1,20 @@
-# Portfólio - Filipe Assad
+# Olá, eu sou o Filipe 👋
 
-![Filipe](https://github.com/filipeassad/portifolio/blob/master/Imagens/img%20topo.png)
+Engenheiro de software há mais de 10 anos, hoje no **Nubank** trabalhando com **Clojure**.
+Antes, fiz parte do time de pagamentos da **Luizalabs (Magazine Luiza)**, contribuindo
+com o gateway de pagamentos, a integração de novos meios de pagamento e os mecanismos de retentativa.
 
+🇺🇸 *Software engineer with 10+ years of experience, currently at Nubank working with Clojure.
+Previously on the payments team at Luizalabs (Magazine Luiza).*
 
-Meu nome é Filipe Assad Baraúna, tenho 30 anos, sou engenheiro de computação formado na Universidade Católica Dom Bosco (UDCB), pós-graduado em Engenharia de Software também na UCDB. Sou nascido em Ladário-MS mas estou morando em Campo Grande-MS. Trabalho atualmente como Fullstack na empresa KosmoStudio. 
+### 🛠️ Stack
+`Clojure` `Node.js` `Java` `JavaScript/TypeScript` `React` `Kafka` `Redis`
+`Google Cloud` `Kubernetes` `Grafana` `Prometheus` `New Relic`
 
-### Objetivos do portfólio 
+### 📌 Projetos em destaque
+| Projeto | Descrição | Stack |
+|---|---|---|
+| _em breve_ | | |
 
-Venho através desta página mostrar um pouco das minhas capacidades de desenvolvimento. Eu vou deixar algumas informações e alguns projetos há disposição.
-
-### Linguagens de programação
-
-* Java
-  * Spring
-  * Hibernate
-* Python
-  * Django
-  * Django Rest Framework
-  * Flask
-* C++
-* C#
-  * .NET
-  * .NET Core
-  * Ententy FrameWork
-* JavaScript
-  * NodeJs
-  * Express
-  * Nest
-  * Sequelize
-  * TypeOrm
-
-### Front-End
-
-* Angular
-* AngularJs
-* VueJs
-* ReactJs
-
-### Projetos 
-
-* [MemesBot](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
-* [TibiaTreino](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
-
-### Contato
-
-**Email:** filipeassad@gmail.com
-
-### Minhas redes sociais
-
-[![Face](https://github.com/filipeassad/portifolio/blob/master/Imagens/facebook.png)](https://www.facebook.com/filipe.assad "Perfil do Facebook") [![Twitter](https://github.com/filipeassad/portifolio/blob/master/Imagens/twitter.png)](https://twitter.com/lipeassad "Perfil do Twitter")
-
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) · filipeassad@gmail.com
